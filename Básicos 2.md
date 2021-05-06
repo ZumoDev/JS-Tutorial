@@ -138,7 +138,7 @@ Ejemplo (no copies wn xd):
 const numero = 0
 const numeroEnTexto = 'cero'
 
-if (numero !== 1 && numeroEnTexto !== 1) {
+if (numero !== 1 && numeroEnTexto !== 'uno') {
   console.log('si')
 } else {
   console.log('no')
